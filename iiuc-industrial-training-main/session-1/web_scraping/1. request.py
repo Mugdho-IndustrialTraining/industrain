@@ -19,7 +19,7 @@ def get_example():
     url = 'https://jsonplaceholder.typicode.com/posts/1'
     response = requests.get(url)
     
-    # Check if the request was successful
+    # Check if the request was successfull
     if response.status_code == 200:
         print("GET request successful!")
         # Print response content

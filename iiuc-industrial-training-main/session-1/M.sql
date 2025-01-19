@@ -13,5 +13,5 @@ CREATE TABLE students (
 
 INSERT INTO students (FirstName, LastName, Age, Gender, Course)
 VALUES
-('John', 'Doe', 20, 'Male', 'Computer Science'),
-('Jane', 'Smith', 22, 'Female', 'Mathematics');
+('Mugdho, 20, 'Male', 'Computer Science'),
+('shahid, 'Smith', 22, 'Female', 'Mathematics');
